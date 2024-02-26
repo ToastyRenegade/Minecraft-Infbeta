@@ -1,2 +1,2 @@
 # Minecraft-Infbeta
-A mod visual/simple environment mod that aims to make Minecraft Beta 1.7.3 feel more like late Infdev/early Alpha, while still mostly retaining the Beta experience.
+Infbeta is a visual/slight environment mod that aims to bring the feeling of late Infdev/early Alpha to Beta 1.7.3 while still retaining most of the Beta gameplay experience. Features of this mod include Neon Foliage, Alpha Sky Colors, Alpha Sunsets, Classic Mojang Startup, Alpha 1.0.4 Style Menus, No Block Names, Wacky Infdev Player Animations, Alpha Stars, Old Cacti, Old Redstone, Old Ore Blocks, Removed Tallgrass, and just Oak Trees. This mod is still in development and is always open to suggestions. Please report any problems!
